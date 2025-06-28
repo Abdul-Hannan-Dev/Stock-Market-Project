@@ -1,8 +1,3 @@
-Here’s a well-structured `README.md` file for your **Stock Market Project**:
-
----
-
-````markdown
 # 📈 Stock Market Project
 
 This project demonstrates how to stream stock market data using **Apache Kafka**, deploy it on an **AWS EC2 instance**, and connect it to **Amazon S3**, **AWS Glue**, and **Amazon Athena** for further analysis.
